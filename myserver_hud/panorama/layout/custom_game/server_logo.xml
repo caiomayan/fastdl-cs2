@@ -1,0 +1,7 @@
+<root>
+    <Panel class="HudRoot">
+        <Image id="ServerLogo"
+               src="file://{images}/server_logo.png"
+               style="width: 120px; height: 120px; horizontal-align: center; vertical-align: bottom; margin-bottom: 20px; wash-color: #FFFFFFDD;" />
+    </Panel>
+</root>
